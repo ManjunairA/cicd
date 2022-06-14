@@ -4,7 +4,7 @@ app=Flask(__name__)
 
 @app.route('/',methods=['POST','GET'])
 def index():
-    return "Hello hai"
+    return "Hello, This is example for CICD pipeline"
 
 
 
