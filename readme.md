@@ -1,8 +1,7 @@
-5419d797-2a73-4d5f-b461-db559bbaacf5
+
 
 mlregression2-app
 
-manjunathanairmanju@gmail.com
 
 create a file named Dockerfile
 
