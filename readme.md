@@ -1,7 +1,6 @@
 
-
+Readme before starting project
 mlregression2-app
-
 
 create a file named Dockerfile
 
