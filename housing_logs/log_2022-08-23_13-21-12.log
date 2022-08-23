@@ -1,0 +1,5 @@
+[2022-08-23 13:21:12,238] werkzeug - WARNING -  * Debugger is active!
+[2022-08-23 13:21:12,238] werkzeug - INFO -  * Debugger PIN: 128-937-116
+[2022-08-23 13:21:16,351] root - INFO - First logging
+[2022-08-23 13:21:16,352] werkzeug - INFO - 127.0.0.1 - - [23/Aug/2022 13:21:16] "GET / HTTP/1.1" 200 -
+[2022-08-23 13:21:16,365] werkzeug - INFO - 127.0.0.1 - - [23/Aug/2022 13:21:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

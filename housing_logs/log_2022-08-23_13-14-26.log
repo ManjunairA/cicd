@@ -1,0 +1,8 @@
+[2022-08-23 13:14:26,368] werkzeug - WARNING -  * Debugger is active!
+[2022-08-23 13:14:26,381] werkzeug - INFO -  * Debugger PIN: 128-937-116
+[2022-08-23 13:14:42,873] werkzeug - INFO - 127.0.0.1 - - [23/Aug/2022 13:14:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2022-08-23 13:14:43,137] werkzeug - INFO - 127.0.0.1 - - [23/Aug/2022 13:14:43] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2022-08-23 13:14:43,249] werkzeug - INFO - 127.0.0.1 - - [23/Aug/2022 13:14:43] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2022-08-23 13:14:43,317] werkzeug - INFO - 127.0.0.1 - - [23/Aug/2022 13:14:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2022-08-23 13:14:43,660] werkzeug - INFO - 127.0.0.1 - - [23/Aug/2022 13:14:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2022-08-23 13:18:38,335] werkzeug - INFO -  * Detected change in 'd:\\learn\\cicd-main\\housing\\logger\\__init__.py', reloading
